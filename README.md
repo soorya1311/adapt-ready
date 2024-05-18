@@ -1,5 +1,5 @@
-# adapt-ready
 
+[1]
 import pandas as pd
 import json
 import csv
@@ -160,5 +160,4 @@ with open(csv_file, 'w', newline='') as file:
 [20]
 df_4 = pd.read_csv('servlets.csv')
 df_4.head()
-
 
